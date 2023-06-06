@@ -1,0 +1,289 @@
+h1 {
+    color: #ffffff;
+    position: relative;
+    left: 0px;
+    top: -20px;   
+}
+
+.HomePage {
+    text-align: center;
+    background-color: #3b5998;
+    top: -20px;
+    padding: 50px;
+
+  }
+  
+  .home
+  {
+display: inline-block;
+background-color: #3b5998;
+color: #ffffff;
+border-radius: 5px;
+text-decoration: none;
+position: relative;
+left: 410px;
+top: -111px;
+width: 66px;
+scale: 1.2;
+border-color: black;
+letter-spacing: 3px;
+  }
+
+  .news
+  {
+    display: inline-block;
+background-color: #3b5998;
+color: #ffffff;
+border-radius: 5px;
+position: relative;
+scale: 1.2;
+left: 530px;
+width: 66px;
+top: -148px;
+letter-spacing: 2px;
+
+  }
+
+  .records
+  {
+      display: inline-block;
+    background-color: #3b5998;
+    color: #ffffff;
+    border-radius: 5px;
+    position: relative;
+    scale: 1.2;
+    left:660px;
+    width: 88px;
+    top: -184px;
+    letter-spacing: 1px;
+  }
+
+  .contact
+  {
+    display: inline-block;
+    background-color: #3b5998;
+    color: #ffffff;
+    border-radius: 5px;
+    position: relative;
+    scale: 1.2;
+    left: 810px;
+    width: 78px;
+    top: -220px;
+    letter-spacing: 0,6;
+  }
+
+  body
+  {
+    margin: 0;
+  }
+
+
+  .logo
+  {
+    position: relative;
+    top: -143px;
+    left: 480px;
+    scale: 0.9;
+  }
+
+  .title
+  {
+position: relative;
+top: 200px; 
+  }
+
+
+     
+  .კონტაქტი
+  {
+    position: relative;
+   
+    color: black;
+    padding: 20px;
+    top: -50px;
+  }
+  .ტელეფონი
+  {
+    position: relative;
+    background-color: #3b5998;
+    color: #ffffff;
+    padding: 20px;
+    top: -80px;
+  }
+  .ელფოსტა
+  {
+    position: relative;
+    color: #ffffff;
+    background-color: #3b5998;
+    padding: 20px;
+    top: -100px;
+  }
+  .მისამართი
+  {
+    color: #ffffff;
+    position: relative;
+    background-color: #3b5998;
+    padding: 20px;
+    top: -120px;
+  }
+
+
+  .next1
+  {
+position: relative;
+display: inline-block;
+background-color: #3b5998;
+color: #ffffff;
+border-radius: 5px;
+position: relative;
+scale: 1.2;
+left: 420px;
+top: 0px;
+width: 75px;
+}
+
+.ყველაზე-მეტი-აზიდვა-1-წუთში
+{
+  position: relative;
+  display: inline;
+  background-color: #3b5998;
+  color: #ffffff;
+  padding: 20px;
+  left: -300px;
+}
+
+
+.აზიდვის-აღწერა
+{
+  position: relative;
+  background-color: #3b5998;
+  color: #ffffff;
+  padding: 20px;
+  top: -100px;
+}
+
+.აზიდვის-ინფორმაცია
+{
+  position: relative;
+  background-color: #3b5998;
+  color: #ffffff;
+  top: -120px;
+  padding: 30px;
+}
+
+.აზიდვა-ფოტო
+{
+  position: relative;
+  top: -50px;
+  left: 20px;
+}
+
+.აზიდვის-სრული-ინფორმაცია
+{
+  position: relative;
+  top: -150px;
+  color: #ffffff;
+  background-color: #3b5998;
+  padding: 20px;
+}
+
+.next2
+{
+  position: relative;
+  display: inline-block;
+background-color: #3b5998;
+color: #ffffff;
+border-radius: 5px;
+position: relative;
+scale: 1.2;
+left: -275px;
+top: 300px;
+width: 75px;
+}
+
+.gozinayi
+{
+  position: relative;
+ top: 260px;
+ left: -680px; 
+}
+
+.გოზინაყი
+{
+  position: relative;
+  color: #ffffff;
+  background-color: #3b5998;
+  display: inline-block;
+  top: 300px;
+  left: -955px;
+  padding: 20px;
+}
+
+.გოზინაყის-აღწერა
+{
+  position: relative;
+  top: -150px;
+  color: #ffffff;
+  background-color: #3b5998;
+  padding: 20px;
+}
+
+.next3
+{
+  position: relative;
+  display: inline-block;
+background-color: #3b5998;
+color: #ffffff;
+border-radius: 5px;
+position: relative;
+scale: 1.2;
+top: 455px;
+left: 580px;
+width: 75px;
+}
+
+
+.ტრანსპორტის-კბილებით-გაწევა
+{
+  position: relative;
+  display: inline-block;
+  top: 455px;
+  color: white;
+  background-color: #3b5998;
+  display: inline-block;
+  padding: 20px;
+}
+
+.ტრაილერი
+{
+  position: relative;
+  top: 400px;
+  left: -400px;
+  scale: 1.2;
+}
+
+.სატვირთოს-გაწევა
+{
+position: relative;
+top: -150px;
+  color: #ffffff;
+  background-color: #3b5998;
+  padding: 20px;
+}
+
+
+.call-button
+{
+  position: relative;
+  scale: 0.15;
+  top: -505px;
+  left: -930px
+}
+
+.ტელეფონის-ნომერი
+{
+  position: relative;
+  top: -693px;
+  left: 80px;
+  color: #3b5998;
+  }
